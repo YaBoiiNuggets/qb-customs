@@ -1,3 +1,4 @@
+print("^2qb-customs ^7v^42^7.^43^7.^41 ^7- ^2Vehicle Customs Script by ^1Nuggets^7")
 Config = Config or {}
 
 Config.Debug = false -- Set to True to enable Debug Prints
