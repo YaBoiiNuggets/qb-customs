@@ -134,7 +134,7 @@ function RepairVehicle()
         controlDisables = {
             disableMovement = true,
             disableCarMovement = true,
-            disableMouse = false,
+            disableMouse = true,
             disableCombat = true,
         },
         animation = {
